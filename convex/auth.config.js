@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://your-issuer-url.clerk.accounts.dev/",
+      domain: "https://intent-gopher-56.clerk.accounts.dev/",
       applicationID: "convex",
     },
   ]
